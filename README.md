@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-2846&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-2846" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddha-2846" alt="aniruddha-2846" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aniruddha_2543" target="blank"><img src="https://img.shields.io/twitter/follow/aniruddha_2543?logo=twitter&style=for-the-badge" alt="aniruddha_2543" /></a> </p>
 
 - 🔭 I’m currently working on **File Sharing Application**
